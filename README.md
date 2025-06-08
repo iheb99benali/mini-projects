@@ -1,4 +1,4 @@
-python-console-games
+# python-console-games
 console run games/algorithms, shows the use of basic algorithms like backtracking, flood-fill etc...
 
 to run the codes either copy or download and run it in the IDE of your choice.
