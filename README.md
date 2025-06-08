@@ -1,7 +1,7 @@
 # python-console-games
 console run games/algorithms, shows the use of basic algorithms like backtracking, flood-fill etc...
 
-to run the codes either copy or download and run it in the IDE of your choice.
+to run the codes either copy or download the file and run it in the IDE of your choice.
 
 the folder includes:
   - a connectFour game: an Object oriented Programming based game, built using basic algorithms/rules, such as pattern matching, Grid Traversal, recursive function calls for input correction etc... also kind of a gravity simulator for symbols to be at the bottom
